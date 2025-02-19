@@ -10,7 +10,10 @@
   border: none;
   text-transform: capitalize;
 }
-
+.dark-mode {
+  background-color: black;
+  color: white;
+}
 html {
   font-size: 62.5%;
   overflow-x: hidden;
